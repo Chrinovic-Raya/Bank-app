@@ -31,4 +31,4 @@ A console-based banking application written in Java that provides essential bank
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/banking-app.git
+git clone https://github.com/Chrinovic-Raya/Bank-app.git
